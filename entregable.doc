@@ -1,0 +1,39 @@
+PROYECTO MÓDULO #10 | ABP - DESARROLLO FULL
+STACK JAVASCRIPT TRAINEE
+Proyecto: Cartera Digital - Node.js y Express Web App
+Estudiante: Mauricio Fernandez Castro | GitHub: github.com/mauriciofernandezcastro
+1. Objetivo del Proyecto
+Desarrollar una aplicación web Full Stack tipo Cartera Digital que permita a usuarios registrarse,
+autenticarse, gestionar saldos, realizar transferencias y visualizar historial de movimientos. El proyecto
+integra los conocimientos de los Módulos 1 al 10, cumpliendo con arquitectura MVC, API RESTful y
+despliegue.
+2. Links de Entrega
+Repositorio https://github.com/mauriciofernandezcastro/Proyecto-Node-y-Express-Web-App---Modulo-8.git
+Demo / Deploy (Agregar link de Render / Vercel cuando despliegues)
+Tipo de entrega Portafolio de productos digitales
+3. Aspectos Técnicos Cumplidos
+- Backend: Node.js, Express.js, arquitectura MVC, middlewares.
+- Base de datos: (JSON / MongoDB / MySQL según tu implementación) para usuarios y transacciones.
+- Funcionalidades: Registro y Login, validación de formularios, gestión de saldo, transferencias entre
+usuarios, historial de movimientos, logout.
+- Frontend: EJS / Handlebars / HTML+CSS+JS vanilla, vistas dinámicas, responsive design.
+- Seguridad: Encriptación de contraseñas con bcrypt, manejo de sesiones / JWT, validación de datos.
+- Buenas prácticas: .gitignore, variables de entorno con dotenv, manejo de errores, código modularizado
+en routes/controllers/models.
+4. Fundamentos y Decisiones Tomadas
+Decidí estructurar el proyecto en Node.js y Express por ser el estándar de la industria para aplicaciones
+JavaScript del lado del servidor y por su rendimiento. Utilicé una arquitectura MVC para separar
+responsabilidades y facilitar el mantenimiento. Para la gestión de la cartera, implementé validaciones de
+saldo insuficiente y transacciones atómicas para evitar inconsistencias. Elegí EJS como motor de
+plantillas por su simplicidad e integración nativa con Express, lo que acelera el desarrollo de un MVP
+funcional sin sobrecargar el frontend. Todas las decisiones fueron registradas con commits descriptivos
+en Git.
+5. Aprendizaje y Valor para el Portafolio
+En este proyecto integré todos los módulos del bootcamp: fundamentos web, JavaScript avanzado,
+Node.js, Express, bases de datos y despliegue. Este producto digital demuestra mi capacidad para
+construir una aplicación Full Stack completa, desde el levantamiento del servidor hasta la lógica de
+negocio de una cartera digital. Es un proyecto escalable a MERN con React en el futuro.
+6. Instrucciones de Ejecución
+npm install
+npm start / node app.js
+Abrir en http://localhost:3000
