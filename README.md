@@ -2,7 +2,7 @@
 
 **Bootcamp:** Desarrollo de Aplicaciones Full Stack JavaScript Trainee  
 **Autor:** Mauricio Fernandez Castro  
-**Repo:** https://github.com/mauriciofernandezcastro/Proyecto-Node-y-Express-Web-App---Modulo-8.git
+**Repo:** (https://github.com/mauriciofernandezcastro/modulo_9.git)
 
 ### 📋 Descripción
 Aplicación web de Cartera Digital que permite a usuarios crear cuenta, iniciar sesión, consultar saldo, realizar transferencias y ver historial de movimientos. Proyecto integrador Full Stack.
